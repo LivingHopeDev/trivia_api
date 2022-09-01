@@ -1,4 +1,4 @@
-# Backend - Full Stack Trivia API
+# Backend - Full Stack Trivia API 
 
 ### Installing Dependencies for the Backend
 

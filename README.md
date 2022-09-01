@@ -1,20 +1,5 @@
-# Full Stack API Final Project: INTRODUCTION
+<<<<<<< HEAD
 
-The trivia api project entails developing APIs as well as testing the APIs for proper functioning. The importance of this project to users is that, it allows users to answer random questions in some specified subjects. This web application has been structured in such a way that it allows users to either select a particular subject out of those that had already been specified or to answer questions across the different subjects randomly.
-
-The API functionalities includes:
-
-1. Display questions - both all questions and by category. Questions should show the question, category and difficulty rating by default and can show/hide the answer.
-2. Delete questions.
-3. Add questions and require that they include question and answer text.
-4. Search for questions based on a text query string.
-5. Play the quiz game, randomizing either all questions or within a specific category.
-
-## Getting started
-
-### Installing Dependencies
-
-Developers who are interested in using this API should have Python3, pip, node, and npm installed on their local machines if not already installed.
 
 
 
@@ -54,3 +39,6 @@ By making notes ahead of time, you will practice the core skill of being able to
 
 
 >View the [README within ./frontend for more details.](./frontend/README.md)
+=======
+
+>>>>>>> a5ccbe5d382da858a807c02ff9208a6287fade65
