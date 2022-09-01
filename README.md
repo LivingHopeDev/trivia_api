@@ -1,11 +1,8 @@
-# Full Stack API Final Project
+# Full Stack API Final Project: INTRODUCTION
 
+The trivia api project entails developing APIs as well as testing the APIs for proper functioning. The importance of this project to users is that, it allows users to answer random questions in some specified subjects. This web application has been structured in such a way that it allows users to either select a particular subject out of those that had already been specified or to answer questions across the different subjects randomly.
 
-## Full Stack Trivia
-
-Udacity is invested in creating bonding experiences for its employees and students. A bunch of team members got the idea to hold trivia on a regular basis and created a webpage to manage the trivia app and play the game, but their API experience is limited and still needs to be built out.
-
-That's where you come in! Help them finish the trivia app so they can start holding trivia and seeing who's the most knowledgeable of the bunch. The application must:
+The API functionalities includes:
 
 1. Display questions - both all questions and by category. Questions should show the question, category and difficulty rating by default and can show/hide the answer.
 2. Delete questions.
@@ -13,7 +10,14 @@ That's where you come in! Help them finish the trivia app so they can start hold
 4. Search for questions based on a text query string.
 5. Play the quiz game, randomizing either all questions or within a specific category.
 
-Completing this trivia app will give you the ability to structure plan, implement, and test an API - skills essential for enabling your future applications to communicate with others.
+## Getting started
+
+### Installing Dependencies
+
+Developers who are interested in using this API should have Python3, pip, node, and npm installed on their local machines if not already installed.
+
+
+
 
 ## Starting and Submitting the Project
 
