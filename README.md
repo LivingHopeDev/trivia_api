@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 
 # Trivia API project: INTRODUCTION
 
@@ -447,3 +448,5 @@ JSON body sent
 
 
 
+=======
+>>>>>>> 925701c35c94d29a0fc1ea9de49fcdf3f631c871
